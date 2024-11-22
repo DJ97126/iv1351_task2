@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Danielle Richards",
+		"mail_address": "daniellerichards2239@gmail.com",
+		"address": "P.O. Box 314, 6977 Mollis Rd.",
+		"personal_number": "40D4D1C1-FD27-DA34-6288-81BDED34EBA4",
+		"phone_number": "06 43 91 41 93"
+	},
+	{
+		"name": "Reuben Prince",
+		"mail_address": "reubenprince2060@gmail.com",
+		"address": "Ap #868-4106 Pede. Avenue",
+		"personal_number": "1C9E0E49-DA58-2DFB-08ED-C2BCA6BE78A3",
+		"phone_number": "05 43 62 92 74"
+	},
+	{
+		"name": "Kuame Kidd",
+		"mail_address": "kuamekidd@gmail.com",
+		"address": "2214 Enim Rd.",
+		"personal_number": "1E79A32B-3855-2735-A396-ADC7DADD757E",
+		"phone_number": "09 58 43 99 23"
+	},
+	{
+		"name": "Ursa Matthews",
+		"mail_address": "ursamatthews@gmail.com",
+		"address": "Ap #946-3134 Cursus, Rd.",
+		"personal_number": "D3B6E522-9B43-C698-8ECA-5715CBFD6D1B",
+		"phone_number": "09 58 13 31 86"
+	},
+	{
+		"name": "Irene Pugh",
+		"mail_address": "irenepugh@gmail.com",
+		"address": "Ap #964-1921 Praesent Road",
+		"personal_number": "D26D2488-9760-5ADE-5A54-C9EEDD67BB55",
+		"phone_number": "08 70 75 34 82"
+	}
+]
