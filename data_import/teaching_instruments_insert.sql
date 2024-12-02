@@ -1,4 +1,4 @@
-INSERT INTO teaching_instruments (instructor_id, type_id)
+INSERT INTO teaching_instrument (instructor_id, type_id)
 VALUES
 	('1', '1'),
 	('1', '2'),
