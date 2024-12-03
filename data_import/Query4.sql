@@ -1,3 +1,5 @@
+-- Query 3 -- Showing the ensembles which are held next week and there genre and seats left
+
 SELECT DISTINCT
 	TO_CHAR(b.date, 'Day') AS Day,
 	e.genre AS Genre,

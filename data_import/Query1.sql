@@ -1,3 +1,5 @@
+-- Query 1 -- Counting the no. of lessons given in a particular month and their type
+
 ANALYZE EXPLAIN;
 
 EXPLAIN WITH all_lessons AS(
