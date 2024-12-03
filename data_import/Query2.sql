@@ -7,10 +7,10 @@ FROM (
         s.sibling_count - 1 AS number_of_siblings,
         CASE 
             WHEN s.sibling_count - 1 = 0 THEN '0'
-        	  WHEN s.sibling_count - 1 = 1 THEN '1'
-			      WHEN s.sibling_count - 1 = 2 THEN '2'
-			      ELSE '3 or more siblings'
-		    END AS no_of_siblings
+            WHEN s.sibling_count - 1 = 1 THEN '1'
+	    WHEN s.sibling_count - 1 = 2 THEN '2'
+	    ELSE '3 or more siblings'
+	END AS no_of_siblings
     FROM 
         student t
     JOIN 
