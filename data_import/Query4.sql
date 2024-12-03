@@ -5,7 +5,6 @@ SELECT DISTINCT
 		WHEN e.max_student - COUNT(b.date) = 0 THEN 'No seats'
 		WHEN e.max_student - COUNT(b.date) < 3 THEN '1 or 2 seats'
 		WHEN e.max_student - COUNT(b.date) > 2 THEN 'Many seats'
-		else (e.max_student - COUNT(b.date))::TEXT
 	END AS No_of_free_seats
 FROM 
 	ensemble e
