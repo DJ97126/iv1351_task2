@@ -1,4 +1,6 @@
-WITH all_lessons AS(
+ANALYZE EXPLAIN;
+
+EXPLAIN WITH all_lessons AS(
 	SELECT 
 		ls.session_start,
 		'individual' AS lesson_type
